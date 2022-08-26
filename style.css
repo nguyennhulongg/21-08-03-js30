@@ -3,7 +3,7 @@
 }
 
 html {
-    background: url(https://github.com/wesbos/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/background.jpg?raw=true);
+    background: url(./background.jpg);
     background-size: cover;
     background-position: bottom center;
 }
@@ -32,6 +32,7 @@ body, html {
     text-align: center;
     height: 90px;
     text-shadow: 0 0 0.5rem black;
+    cursor: pointer;
 }
 
 kbd {
